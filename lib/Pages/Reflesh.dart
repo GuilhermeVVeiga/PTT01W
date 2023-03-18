@@ -10,6 +10,7 @@ class SplashPage extends StatefulWidget {
   @override
   State<SplashPage> createState() => _SplashPageState();
 }
+
 String Keys = '';
 class _SplashPageState extends State<SplashPage> {
   @override
